@@ -1,0 +1,1 @@
+// Detection data struct. Defines output data of CFAR algorithms.
